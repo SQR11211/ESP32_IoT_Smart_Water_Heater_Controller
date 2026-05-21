@@ -82,7 +82,6 @@ The server starts on port **3000**. Open `http://<server-ip>:3000` in a browser 
 KiCad project files are located in the `layout/` directory. The design includes:
 
 - AI-Thinker NodeMCU-32S footprint
-- Custom component libraries for keypad and 7-segment displays
 - Relay and sensor connectors
 
 ## License
