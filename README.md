@@ -81,7 +81,7 @@ The server starts on port **3000**. Open `http://<server-ip>:3000` in a browser 
 
 KiCad project files are located in the `layout/` directory. The design includes:
 
-- AI-Thinker NodeMCU-32S footprint
+- AI-Thinker NodeMCU-32S symbol and footprint from [kicad-nodemcu32S](https://github.com/winterrise/kicad-nodemcu32S) by winterrise
 - Relay and sensor connectors
 
 ## License
